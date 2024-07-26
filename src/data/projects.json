@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Insure Landing Page",
+    "imageSrc": "projects/insure.png",
+    "description": "This is a project where I designed and developed a modern landing page. This project was to show case JavaScript skills, core CSS and CSS Animation skills.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "demo": "https://insure-anas.netlify.app/",
+    "source": "https://github.com/anasmustafadev/insure-landing-page"
+  },
+  {
+    "title": "TODO App",
+    "imageSrc": "projects/todo.png",
+    "description": "This is the project in which I created a Web TODO App which was developed in Vanilla JavaScript and used LocalStorage API to store the data.",
+    "skills": [
+      "HTML",
+      "Tailwind",
+      "JavaScript"
+    ],
+    "demo": "https://todo-anas.netlify.app/",
+    "source": "https://github.com/anasmustafadev/todo-app"
+  },
+  {
+    "title": "Tic Tac Toe with AI",
+    "imageSrc": "projects/tictac.png",
+    "description": "In this project I set out to develop Web App of classical game Tic Tac Toe but also implemented CPU Player to play with you using minimax algorithm.",
+    "skills": [
+      "HTML/CSS",
+      "JavaScript",
+      "DSA"
+    ],
+    "demo": "https://tic-tac-toe-anas.netlify.app/",
+    "source": "https://github.com/anasmustafadev/tic-tac-toe"
+  }
+]
